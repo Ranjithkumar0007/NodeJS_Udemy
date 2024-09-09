@@ -9,6 +9,6 @@ console.log(userDetails(variable2, variable4, hasHobbies))
 
 function userDetails(name, age, hasHobbies){
     return(
-        'My name is '+name+' and my age is '+age+' and the user has hobbies: '+hasHobbies
+        'My name is '+name+' and my age is '+age+' and the my hobbies: '+hasHobbies
     );
 }
