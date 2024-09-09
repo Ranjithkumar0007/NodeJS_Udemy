@@ -3,3 +3,10 @@ Username -> Ranjithkumar0007
 emailID -> ranjithkumarroyalcyber@gmail.com
 
 
+Section 2 : JavaScript - A quick Refresher
+One other feature, we'll use from time to time are template literals:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+MDN JavaScript Tutorial: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+Academind JS Resources:  https://academind.com/learn/javascript
