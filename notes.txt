@@ -10,3 +10,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
 
 MDN JavaScript Tutorial: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 Academind JS Resources:  https://academind.com/learn/javascript
+
+Request & Response Headers:
+The following article provides a great overview of available headers and their role: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
